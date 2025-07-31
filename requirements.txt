@@ -12,4 +12,8 @@ langchain-openai
 ollama
 chromadb
 sentence-transformers
-langchain_huggingface
+langchain-huggingface
+faiss-cpu
+chromadb
+langchain_chroma
+streamlit
