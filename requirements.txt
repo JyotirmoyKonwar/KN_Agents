@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.353
 ipykernel
 python-dotenv
 langchain-community
@@ -17,3 +17,10 @@ faiss-cpu
 chromadb
 langchain_chroma
 streamlit
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+pydantic
