@@ -1,4 +1,4 @@
-langchain==0.0.353
+langchain
 ipykernel
 python-dotenv
 langchain-community
@@ -24,3 +24,4 @@ uvicorn
 langserve
 sse_starlette
 pydantic
+langgraph
