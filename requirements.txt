@@ -25,3 +25,4 @@ langserve
 sse_starlette
 pydantic
 langgraph
+langgraph-cli[inmem]
